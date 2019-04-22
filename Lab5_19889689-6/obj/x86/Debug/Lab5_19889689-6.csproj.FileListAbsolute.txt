@@ -1,0 +1,6 @@
+/Users/nicolasvarela/Projects/Lab5_19889689-6/Lab5_19889689-6/obj/x86/Debug/Lab5_19889689-6.csprojAssemblyReference.cache
+/Users/nicolasvarela/Projects/Lab5_19889689-6/Lab5_19889689-6/obj/x86/Debug/Lab5_19889689-6.csproj.CoreCompileInputs.cache
+/Users/nicolasvarela/Projects/Lab5_19889689-6/Lab5_19889689-6/bin/Debug/Lab5_19889689-6.exe
+/Users/nicolasvarela/Projects/Lab5_19889689-6/Lab5_19889689-6/bin/Debug/Lab5_19889689-6.pdb
+/Users/nicolasvarela/Projects/Lab5_19889689-6/Lab5_19889689-6/obj/x86/Debug/Lab5_19889689-6.exe
+/Users/nicolasvarela/Projects/Lab5_19889689-6/Lab5_19889689-6/obj/x86/Debug/Lab5_19889689-6.pdb
